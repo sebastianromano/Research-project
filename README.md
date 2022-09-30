@@ -3,7 +3,16 @@
 
 ## Ideas for the project
 - [ ] 
+
+## Project structure
 - [ ]
+
+## Project plan
 - [ ]
+
+## Project members
 - [ ]
+
+## Project supervisor
 - [ ]
+
